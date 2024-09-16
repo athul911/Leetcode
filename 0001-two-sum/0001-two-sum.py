@@ -6,4 +6,3 @@ class Solution:
                 return [maps[target - nums[i]],i]
             maps[nums[i]] = i
         return []
-            
