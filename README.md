@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/athul911/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/athul911/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/athul911/Leetcode/tree/master/0015-3sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/athul911/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/athul911/Leetcode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/athul911/Leetcode/tree/master/0015-3sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/athul911/Leetcode/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/athul911/Leetcode/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
