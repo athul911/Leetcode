@@ -6,7 +6,6 @@ class Solution:
             return 0
         
         while left<right:
-            print(haystack[left:right])
             if right > len(haystack):
                 return -1
             if haystack[left:right] == needle:
